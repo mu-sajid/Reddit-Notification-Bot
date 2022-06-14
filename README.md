@@ -1,5 +1,7 @@
 # Reddit Notification Script
 
+Bot that will send you a text message when someone comments any keyword in a specific subreddit.
+
 ###### Uses:
 - Praw (Reddit API Wrapper) -- pip3 install praw
 - Twilio (Communication API) -- pip3 install twilio
